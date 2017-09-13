@@ -1,5 +1,5 @@
 # pdf-js-demo
-a demo of pdf.js with crossing domain using (http://115.159.119.52/education_lib/backend/web/site/pdf)
+a demo of pdf.js with crossing domain using (http://115.159.119.52/education_lib/backend/web/site/pdf?file=http://otp88c4y4.bkt.clouddn.com/163.pdf)
 # Download
 down pdf.js form offical web site (http://mozilla.github.io/pdf.js/)  
 # Install
